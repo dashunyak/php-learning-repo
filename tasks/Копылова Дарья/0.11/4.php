@@ -1,4 +1,4 @@
 <?php
-	$str1 = 'OOOAAAOOO';
+    $str1 = 'OOOAAAOOO';
     print(strlen($str1));
 ?>
